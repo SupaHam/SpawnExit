@@ -1,0 +1,8 @@
+name: ${name}
+main: ${plugin.mainClass}
+version: ${project.version}
+author: SupaHam
+website: http://www.supaham.com
+commands:
+  spawnexit:
+    description: Adds a trail of smoke leading to the spawn exit
